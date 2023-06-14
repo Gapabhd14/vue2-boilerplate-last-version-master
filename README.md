@@ -12,5 +12,5 @@ Thid is a boilerplate created by the command "npm init vue@2".
 - In order to register an event listener to native event (like "click") on a component, add native after the event name like `@click.native = "function"`  
      
        
-   *Tamar Stupp 2022*
+   *Tamar Stupp 2022*  
   
